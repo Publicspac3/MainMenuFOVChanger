@@ -15,6 +15,7 @@ std::shared_ptr<CVarManagerWrapper> _globalCvarManager;
 void MainMenuFOVChanger::onLoad()
 {
 	_globalCvarManager = cvarManager;
+	cvarManager->executeCommand("cl_mainmenu_fov 55");
 	cvarManager->log("Plugin loaded!");
 
 	//Custom Slider stuff
