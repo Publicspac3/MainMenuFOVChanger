@@ -12,9 +12,9 @@ https://github.com/Martinii89/BakkesmodPluginTemplate
 THE "NORMAL FOV" IS BASED ON MY SCREEN WHICH IS 1080P IN FULLSCREEN
 
 
-how to download and use this: [YOUTUBE LINK HERE]
+How to download and use this: [YOUTUBE LINK HERE]
 
-All this really does is add a button and a slider; it is cosmetic and mainly for fun. (it's pretty useless)
+All this really does is add a button and a slider; it's cosmetic and mainly for fun. (it's pretty useless)
 
 im new to coding so a lot is probably garbage lol
 
