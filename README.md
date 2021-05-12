@@ -11,8 +11,9 @@ https://github.com/Martinii89/BakkesmodPluginTemplate
 
 THE "NORMAL FOV" IS BASED ON MY SCREEN WHICH IS 1080P IN FULLSCREEN
 
+How to download and use this: https://youtu.be/2y10w-oEaQ8
 
-How to download and use this: [YOUTUBE LINK HERE]
+You also might need to load the plugin, to do this, press f2 -> plugins -> plugin manager (beta) -> open plugin manager -> click the box next to "MainMenuFOVChanger"
 
 All this really does is add a button and a slider; it's cosmetic and mainly for fun. (it's pretty useless)
 
