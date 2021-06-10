@@ -13,8 +13,6 @@ THE "NORMAL FOV" IS BASED ON MY SCREEN WHICH IS 1080P IN FULLSCREEN
 
 downloading source is kinda broken but the main files are there; the ones that are missing are the bakkesmod and gui files afaik
 
-How to download and use this: https://youtu.be/2y10w-oEaQ8
-
 You also might need to load the plugin, to do this, press f2 -> plugins -> plugin manager (beta) -> open plugin manager -> click the box next to "MainMenuFOVChanger"
 
 All this really does is add a button and a slider; it's cosmetic and mainly for fun. (it's pretty useless)
