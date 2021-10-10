@@ -9,7 +9,7 @@ https://github.com/CrunchyRL/MainMenuBackgroundChanger
 
 https://github.com/Martinii89/BakkesmodPluginTemplate
 
-THE "NORMAL FOV" IS BASED ON MY SCREEN WHICH IS 1080P IN FULLSCREEN
+Normal FOV is just arbitrary
 
 downloading source is kinda broken but the main files are there; the ones that are missing are the bakkesmod and gui files afaik
 
