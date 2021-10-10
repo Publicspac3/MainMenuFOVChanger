@@ -9,9 +9,7 @@ https://github.com/CrunchyRL/MainMenuBackgroundChanger
 
 https://github.com/Martinii89/BakkesmodPluginTemplate
 
-Normal FOV is just arbitrary
-
-downloading source is kinda broken but the main files are there; the ones that are missing are the bakkesmod and gui files afaik
+Normal FOV is just arbitrary.
 
 You also might need to load the plugin, to do this, press f2 -> plugins -> plugin manager (beta) -> open plugin manager -> click the box next to "MainMenuFOVChanger"
 
