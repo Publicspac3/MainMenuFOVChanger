@@ -1,0 +1,6 @@
+MainMenuFOVChanger
+0|Small FOV| fov_small
+0|Large FOV| fov_large
+0|Random FOV| fov_random
+0|Normal FOV| fov_normal
+5|Custom FOV|FovSlider|1|170
