@@ -1,4 +1,7 @@
 # MainMenuFOVChanger
+
+Dead project, go [here](https://github.com/Publicspac3/MainMenuCustomizer) to see where this project is going.
+
 Bakkesmod plugin that changes the Menu FOV
 
 A lot of the code is based off the following:
