@@ -22,4 +22,3 @@ im new to coding so a lot is probably garbage lol
 
 how to install: https://youtu.be/2y10w-oEaQ8
 
-Publicspace#4676
